@@ -24,8 +24,12 @@ const rahman = {
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/rahmandarmawan21" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/rrahman_D17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mrdarmawan21" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a
-href="mailto:rahman.drm21@gmail.com"><img src="https://img.shields.io/badge/Rahman-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p>
+  <a href="https://github.com/rahmandarmawan21" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/rrahman_D17" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/mrdarmawan21" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:rahman.drm21@gmail.com"><img src="https://img.shields.io/badge/Rahman-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/mr_darmawan"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </p>
 
 [![GitHub rahman](https://img.shields.io/github/followers/rahmandarmawan21?label=follow&style=social)](https://github.com/rahmandarmawan21)
